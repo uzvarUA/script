@@ -122,3 +122,17 @@ world.afterEvents.playerSpawn.subscribe((event) => {
 
 });
 ```
+# JSON
+```js
+{
+    "module_name": "@minecraft/server-ui",
+    "version": "2.0.0"
+}
+```
+<br>
+```js
+{
+    "module_name": "@minecraft/server",
+    "version": "1.19.0"
+}
+```
