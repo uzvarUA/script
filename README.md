@@ -129,7 +129,7 @@ world.afterEvents.playerSpawn.subscribe((event) => {
     "version": "2.0.0"
 }
 ```
-<br>
+***
 ```js
 {
     "module_name": "@minecraft/server",
